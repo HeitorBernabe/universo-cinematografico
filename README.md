@@ -34,3 +34,13 @@ Esta aplicação web simples permite aos usuários pesquisar por filmes e série
 1. **Clonar o repositório:**
    ```bash
    git clone https://seu-repositorio.git
+
+**Este projeto foi feito para a Imersão Dev da Alura com Google Gemini, que foi feita pelos participantes:**
+  * Guilherme  Lima
+    * Tech Educador e Instrutor na Alura e na USP
+
+  * Rafaella Ballerini
+    * Criadora de conteúdo tech e instrutora na Alura
+
+  * Luciano Martins
+    * Developer Advocate, Google IA
